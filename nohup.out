@@ -1,0 +1,90 @@
+[I 07:26:02.846 NotebookApp] The port 8888 is already in use, trying another port.
+[I 07:26:02.850 NotebookApp] Serving notebooks from local directory: /PythonStudy
+[I 07:26:02.850 NotebookApp] The Jupyter Notebook is running at:
+[I 07:26:02.850 NotebookApp] http://(23cc6562c9cc or 127.0.0.1):8889/
+[I 07:26:02.850 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 07:26:02.852 NotebookApp] No web browser found: could not locate runnable browser.
+[I 07:27:02.131 NotebookApp] Interrupted...
+[I 07:27:02.131 NotebookApp] Shutting down 0 kernels
+[I 07:32:37.288 NotebookApp] Serving notebooks from local directory: /PythonStudy
+[I 07:32:37.288 NotebookApp] The Jupyter Notebook is running at:
+[I 07:32:37.288 NotebookApp] http://(23cc6562c9cc or 127.0.0.1):8888/
+[I 07:32:37.288 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 07:32:37.290 NotebookApp] No web browser found: could not locate runnable browser.
+[I 07:46:00.578 NotebookApp] Creating new directory in 
+[W 07:49:33.854 NotebookApp] delete /README.md
+[I 07:49:39.142 NotebookApp] Creating new notebook in /Crawler
+[I 07:49:46.194 NotebookApp] Kernel started: 467bc276-bd37-4bf2-a29d-e01176b5dc82
+[I 07:49:46.979 NotebookApp] Adapting to protocol v5.1 for kernel 467bc276-bd37-4bf2-a29d-e01176b5dc82
+[I 07:51:45.941 NotebookApp] Saving file at /Crawler/Crawler1.ipynb
+[I 07:53:46.560 NotebookApp] Saving file at /Crawler/Crawler1.ipynb
+[I 07:55:46.126 NotebookApp] Saving file at /Crawler/Crawler1.ipynb
+[I 07:57:46.179 NotebookApp] Saving file at /Crawler/Crawler1.ipynb
+[I 07:59:46.608 NotebookApp] Saving file at /Crawler/Crawler1.ipynb
+[I 08:01:46.825 NotebookApp] Saving file at /Crawler/Crawler1.ipynb
+[I 08:03:46.680 NotebookApp] Saving file at /Crawler/Crawler1.ipynb
+[I 08:05:46.785 NotebookApp] Saving file at /Crawler/Crawler1.ipynb
+[I 08:07:46.320 NotebookApp] Saving file at /Crawler/Crawler1.ipynb
+[I 08:09:50.239 NotebookApp] Saving file at /Crawler/Crawler1.ipynb
+[I 08:11:46.792 NotebookApp] Saving file at /Crawler/Crawler1.ipynb
+[I 08:13:46.234 NotebookApp] Saving file at /Crawler/Crawler1.ipynb
+[I 08:15:46.754 NotebookApp] Saving file at /Crawler/Crawler1.ipynb
+[I 08:17:46.273 NotebookApp] Saving file at /Crawler/Crawler1.ipynb
+[I 08:19:46.693 NotebookApp] Saving file at /Crawler/Crawler1.ipynb
+[I 08:25:46.293 NotebookApp] Saving file at /Crawler/Crawler1.ipynb
+[I 08:27:46.224 NotebookApp] Saving file at /Crawler/Crawler1.ipynb
+[I 08:29:34.707 NotebookApp] Saving file at /Crawler/Crawler1.ipynb
+[I 08:29:45.929 NotebookApp] Creating new notebook in /Crawler
+[I 08:29:46.619 NotebookApp] Kernel started: 2b6a00c7-eeb6-49b1-9533-71d5a9a0c09f
+[I 08:29:46.933 NotebookApp] Adapting to protocol v5.1 for kernel 2b6a00c7-eeb6-49b1-9533-71d5a9a0c09f
+[I 08:31:46.696 NotebookApp] Saving file at /Crawler/Crawler1-baidutest.ipynb
+[I 08:33:46.871 NotebookApp] Saving file at /Crawler/Crawler1-baidutest.ipynb
+[I 08:35:46.144 NotebookApp] Creating new notebook in /Crawler
+[I 08:35:46.713 NotebookApp] Kernel started: 7fe849b1-18d7-4e33-bf32-858834bfe6f1
+[I 08:35:46.992 NotebookApp] Adapting to protocol v5.1 for kernel 7fe849b1-18d7-4e33-bf32-858834bfe6f1
+[I 08:35:47.780 NotebookApp] Saving file at /Crawler/Crawler1-baidutest.ipynb
+[I 08:35:56.706 NotebookApp] Starting buffering for 7fe849b1-18d7-4e33-bf32-858834bfe6f1:cb9f17a16e264b9e9ecb0981f70258c7
+[I 08:37:47.138 NotebookApp] Saving file at /Crawler/Crawler1-baidutest.ipynb
+[I 08:39:46.671 NotebookApp] Saving file at /Crawler/Crawler1-baidutest.ipynb
+[I 08:40:15.805 NotebookApp] Kernel interrupted: 2b6a00c7-eeb6-49b1-9533-71d5a9a0c09f
+[I 08:41:46.665 NotebookApp] Saving file at /Crawler/Crawler1-baidutest.ipynb
+[I 08:43:46.720 NotebookApp] Saving file at /Crawler/Crawler1-baidutest.ipynb
+[I 08:47:46.800 NotebookApp] Saving file at /Crawler/Crawler1-baidutest.ipynb
+[I 08:49:16.971 NotebookApp] Creating new notebook in /Crawler
+[I 08:49:17.667 NotebookApp] Kernel started: 689be353-b631-411c-b0c7-ff686a475c21
+[I 08:49:18.007 NotebookApp] Adapting to protocol v5.1 for kernel 689be353-b631-411c-b0c7-ff686a475c21
+[I 08:49:30.480 NotebookApp] Kernel shutdown: 467bc276-bd37-4bf2-a29d-e01176b5dc82
+[I 08:49:46.562 NotebookApp] Saving file at /Crawler/Crawler1-baidutest.ipynb
+[I 08:51:00.710 NotebookApp] Starting buffering for 2b6a00c7-eeb6-49b1-9533-71d5a9a0c09f:a0304a46ca874d21a8dc250f87c364dd
+[I 08:51:01.017 NotebookApp] Kernel restarted: 2b6a00c7-eeb6-49b1-9533-71d5a9a0c09f
+[I 08:51:01.423 NotebookApp] Adapting to protocol v5.1 for kernel 2b6a00c7-eeb6-49b1-9533-71d5a9a0c09f
+[I 08:51:01.423 NotebookApp] Restoring connection for 2b6a00c7-eeb6-49b1-9533-71d5a9a0c09f:a0304a46ca874d21a8dc250f87c364dd
+[I 08:51:01.423 NotebookApp] Replaying 3 buffered messages
+[I 08:51:15.748 NotebookApp] Saving file at /Crawler/Crawler1-baidutest.ipynb
+[I 08:51:19.445 NotebookApp] Saving file at /Crawler/Crawler2.ipynb
+[I 08:51:19.461 NotebookApp] Saving file at /Crawler/Crawler1-baidutest.ipynb
+[I 08:51:20.652 NotebookApp] Starting buffering for 2b6a00c7-eeb6-49b1-9533-71d5a9a0c09f:a0304a46ca874d21a8dc250f87c364dd
+[I 08:53:21.520 NotebookApp] Saving file at /Crawler/Crawler2.ipynb
+[I 08:55:19.969 NotebookApp] Saving file at /Crawler/Crawler2.ipynb
+[I 08:57:19.897 NotebookApp] Saving file at /Crawler/Crawler2.ipynb
+[I 08:59:21.008 NotebookApp] Saving file at /Crawler/Crawler2.ipynb
+[I 10:13:18.853 NotebookApp] Saving file at /Crawler/Crawler2.ipynb
+[I 10:14:55.924 NotebookApp] Adapting to protocol v5.1 for kernel 7fe849b1-18d7-4e33-bf32-858834bfe6f1
+[I 10:14:57.947 NotebookApp] Starting buffering for 7fe849b1-18d7-4e33-bf32-858834bfe6f1:af2a92e1d98343498737a86d25a7c71d
+[I 10:15:06.154 NotebookApp] Adapting to protocol v5.1 for kernel 689be353-b631-411c-b0c7-ff686a475c21
+[I 10:15:18.774 NotebookApp] Saving file at /Crawler/Crawler2.ipynb
+[I 10:17:17.885 NotebookApp] Saving file at /Crawler/Crawler2.ipynb
+[I 10:19:18.821 NotebookApp] Saving file at /Crawler/Crawler2.ipynb
+[I 10:21:18.805 NotebookApp] Saving file at /Crawler/Crawler2.ipynb
+[I 10:23:18.877 NotebookApp] Saving file at /Crawler/Crawler2.ipynb
+[I 10:25:17.950 NotebookApp] Saving file at /Crawler/Crawler2.ipynb
+[I 10:27:18.778 NotebookApp] Saving file at /Crawler/Crawler2.ipynb
+[I 10:29:19.124 NotebookApp] Saving file at /Crawler/Crawler2.ipynb
+[I 14:04:52.738 NotebookApp] Starting buffering for 689be353-b631-411c-b0c7-ff686a475c21:339ce73c22c74fd5837716b9d747edaa
+[W 14:04:53.986 NotebookApp] 404 GET /api/kernels/467bc276-bd37-4bf2-a29d-e01176b5dc82/channels?session_id=b67e4b0302df426f8bea906448d928f3 (192.168.31.23): Kernel does not exist: 467bc276-bd37-4bf2-a29d-e01176b5dc82
+[W 14:04:53.990 NotebookApp] 404 GET /api/kernels/467bc276-bd37-4bf2-a29d-e01176b5dc82/channels?session_id=b67e4b0302df426f8bea906448d928f3 (192.168.31.23) 9.08ms referer=None
+[I 14:04:54.013 NotebookApp] Adapting to protocol v5.1 for kernel 689be353-b631-411c-b0c7-ff686a475c21
+[I 14:04:54.014 NotebookApp] Restoring connection for 689be353-b631-411c-b0c7-ff686a475c21:339ce73c22c74fd5837716b9d747edaa
+[W 14:04:56.779 NotebookApp] Replacing stale connection: 467bc276-bd37-4bf2-a29d-e01176b5dc82:b67e4b0302df426f8bea906448d928f3
+[W 14:06:24.015 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 14:06:29.018 NotebookApp] Starting buffering for 689be353-b631-411c-b0c7-ff686a475c21:339ce73c22c74fd5837716b9d747edaa
