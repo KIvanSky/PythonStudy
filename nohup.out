@@ -88,3 +88,54 @@
 [W 14:04:56.779 NotebookApp] Replacing stale connection: 467bc276-bd37-4bf2-a29d-e01176b5dc82:b67e4b0302df426f8bea906448d928f3
 [W 14:06:24.015 NotebookApp] WebSocket ping timeout after 90001 ms.
 [I 14:06:29.018 NotebookApp] Starting buffering for 689be353-b631-411c-b0c7-ff686a475c21:339ce73c22c74fd5837716b9d747edaa
+[I 04:28:55.572 NotebookApp] Creating new directory in 
+[I 04:29:11.499 NotebookApp] Creating new notebook in /Threading
+[I 04:29:19.866 NotebookApp] Kernel started: daa0b425-7113-4dfa-a7da-9323e5e9f7b6
+[I 04:29:20.224 NotebookApp] Adapting to protocol v5.1 for kernel daa0b425-7113-4dfa-a7da-9323e5e9f7b6
+[I 04:31:19.997 NotebookApp] Saving file at /Threading/Threading.ipynb
+[I 04:32:59.403 NotebookApp] Kernel shutdown: 2b6a00c7-eeb6-49b1-9533-71d5a9a0c09f
+[I 04:33:00.609 NotebookApp] Kernel shutdown: 7fe849b1-18d7-4e33-bf32-858834bfe6f1
+[I 04:33:01.597 NotebookApp] Kernel shutdown: 689be353-b631-411c-b0c7-ff686a475c21
+[I 04:33:02.555 NotebookApp] Kernel shutdown: daa0b425-7113-4dfa-a7da-9323e5e9f7b6
+[W 04:33:12.900 NotebookApp] 404 POST /api/kernels/daa0b425-7113-4dfa-a7da-9323e5e9f7b6/interrupt (192.168.31.23): Kernel does not exist: daa0b425-7113-4dfa-a7da-9323e5e9f7b6
+[W 04:33:12.901 NotebookApp] Kernel does not exist: daa0b425-7113-4dfa-a7da-9323e5e9f7b6
+[W 04:33:12.901 NotebookApp] 404 POST /api/kernels/daa0b425-7113-4dfa-a7da-9323e5e9f7b6/interrupt (192.168.31.23) 3.05ms referer=http://192.168.31.74:7134/notebooks/Threading/Threading.ipynb
+[I 04:33:19.991 NotebookApp] Saving file at /Threading/Threading.ipynb
+[I 04:33:21.296 NotebookApp] Saving file at /Threading/Threading.ipynb
+[I 04:33:22.173 NotebookApp] Saving file at /Threading/Threading.ipynb
+[W 04:33:24.166 NotebookApp] 404 POST /api/kernels/daa0b425-7113-4dfa-a7da-9323e5e9f7b6/interrupt (192.168.31.23): Kernel does not exist: daa0b425-7113-4dfa-a7da-9323e5e9f7b6
+[W 04:33:24.167 NotebookApp] Kernel does not exist: daa0b425-7113-4dfa-a7da-9323e5e9f7b6
+[W 04:33:24.168 NotebookApp] 404 POST /api/kernels/daa0b425-7113-4dfa-a7da-9323e5e9f7b6/interrupt (192.168.31.23) 2.97ms referer=http://192.168.31.74:7134/notebooks/Threading/Threading.ipynb
+[W 04:33:32.598 NotebookApp] 404 POST /api/kernels/daa0b425-7113-4dfa-a7da-9323e5e9f7b6/interrupt (192.168.31.23): Kernel does not exist: daa0b425-7113-4dfa-a7da-9323e5e9f7b6
+[W 04:33:32.599 NotebookApp] Kernel does not exist: daa0b425-7113-4dfa-a7da-9323e5e9f7b6
+[W 04:33:32.600 NotebookApp] 404 POST /api/kernels/daa0b425-7113-4dfa-a7da-9323e5e9f7b6/interrupt (192.168.31.23) 3.00ms referer=http://192.168.31.74:7134/notebooks/Threading/Threading.ipynb
+[W 04:33:35.640 NotebookApp] 404 POST /api/kernels/daa0b425-7113-4dfa-a7da-9323e5e9f7b6/interrupt (192.168.31.23): Kernel does not exist: daa0b425-7113-4dfa-a7da-9323e5e9f7b6
+[W 04:33:35.640 NotebookApp] Kernel does not exist: daa0b425-7113-4dfa-a7da-9323e5e9f7b6
+[W 04:33:35.641 NotebookApp] 404 POST /api/kernels/daa0b425-7113-4dfa-a7da-9323e5e9f7b6/interrupt (192.168.31.23) 2.93ms referer=http://192.168.31.74:7134/notebooks/Threading/Threading.ipynb
+[I 04:35:19.896 NotebookApp] Saving file at /Threading/Threading.ipynb
+[I 04:35:31.456 NotebookApp] Saving file at /Threading/Threading.ipynb
+[I 04:35:34.339 NotebookApp] Saving file at /Threading/Threading.ipynb
+[I 04:35:44.270 NotebookApp] Kernel started: 887fbd53-3cd5-4a38-9359-9427b967d438
+[I 04:35:44.594 NotebookApp] Adapting to protocol v5.1 for kernel 887fbd53-3cd5-4a38-9359-9427b967d438
+[I 04:37:44.384 NotebookApp] Saving file at /Threading/Threading.ipynb
+[I 04:39:44.303 NotebookApp] Saving file at /Threading/Threading.ipynb
+[I 04:41:44.414 NotebookApp] Saving file at /Threading/Threading.ipynb
+[I 04:43:44.321 NotebookApp] Saving file at /Threading/Threading.ipynb
+[I 04:45:44.320 NotebookApp] Saving file at /Threading/Threading.ipynb
+[I 04:47:44.638 NotebookApp] Saving file at /Threading/Threading.ipynb
+[I 04:49:44.646 NotebookApp] Saving file at /Threading/Threading.ipynb
+[I 04:51:44.382 NotebookApp] Saving file at /Threading/Threading.ipynb
+[I 04:53:44.403 NotebookApp] Saving file at /Threading/Threading.ipynb
+[I 05:23:42.317 NotebookApp] Starting buffering for 887fbd53-3cd5-4a38-9359-9427b967d438:b1c943357c3447b081ba4e704b94cfd8
+[I 05:23:43.349 NotebookApp] Adapting to protocol v5.1 for kernel 887fbd53-3cd5-4a38-9359-9427b967d438
+[I 05:23:43.351 NotebookApp] Restoring connection for 887fbd53-3cd5-4a38-9359-9427b967d438:b1c943357c3447b081ba4e704b94cfd8
+[W 05:25:13.355 NotebookApp] WebSocket ping timeout after 90003 ms.
+[I 05:25:18.359 NotebookApp] Starting buffering for 887fbd53-3cd5-4a38-9359-9427b967d438:b1c943357c3447b081ba4e704b94cfd8
+[I 06:44:37.938 NotebookApp] Adapting to protocol v5.1 for kernel 887fbd53-3cd5-4a38-9359-9427b967d438
+[I 06:44:37.940 NotebookApp] Restoring connection for 887fbd53-3cd5-4a38-9359-9427b967d438:b1c943357c3447b081ba4e704b94cfd8
+[I 08:51:46.251 NotebookApp] Starting buffering for 887fbd53-3cd5-4a38-9359-9427b967d438:b1c943357c3447b081ba4e704b94cfd8
+[I 08:51:46.425 NotebookApp] Adapting to protocol v5.1 for kernel 887fbd53-3cd5-4a38-9359-9427b967d438
+[I 08:51:46.427 NotebookApp] Restoring connection for 887fbd53-3cd5-4a38-9359-9427b967d438:b1c943357c3447b081ba4e704b94cfd8
+[W 08:53:16.430 NotebookApp] WebSocket ping timeout after 90002 ms.
+[I 08:53:21.434 NotebookApp] Starting buffering for 887fbd53-3cd5-4a38-9359-9427b967d438:b1c943357c3447b081ba4e704b94cfd8
+[W 09:07:49.107 NotebookApp] error on read: [Errno 113] No route to host
